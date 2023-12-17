@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "CarLift",
-    "project_version":    "v5.1.2-dirty",
+    "project_version":    "18f9197-dirty",
     "project_path":       "C:/Users/Admin/esp/esp-idf/Projects/CarLift",
     "idf_path":           "C:/Users/Admin/esp/esp-idf",
     "build_dir":          "C:/Users/Admin/esp/esp-idf/Projects/CarLift/build",
